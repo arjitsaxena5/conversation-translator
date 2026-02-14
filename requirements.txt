@@ -1,0 +1,17 @@
+# Core
+deep-translator>=1.11.0   # Google Translate — free, no API key, no token limits
+python-dotenv>=1.0.0
+
+# Language detection
+langdetect>=1.0.9
+
+# Terminal UI
+rich>=13.0.0
+
+# Voice mode (optional — install these for microphone input)
+# SpeechRecognition>=3.10.0
+# pyaudio>=0.2.14        # macOS: build portaudio from source (see README)
+
+# Text-to-speech output (optional)
+# gtts>=2.5.0
+# pygame>=2.5.4
